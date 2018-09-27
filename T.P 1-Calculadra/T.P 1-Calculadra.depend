@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1538048164 source:c:\users\bnq\desktop\t.p 1-calculadra\main.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<ctype.h>
+	"operaciones.h"
+
+1538048164 c:\users\bnq\desktop\t.p 1-calculadra\operaciones.h
+
